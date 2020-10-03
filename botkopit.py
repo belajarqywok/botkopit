@@ -1,11 +1,15 @@
 #!/bin/env python3
-#!/bin/env python3
+'''
+
+Masih beta wkwkwk
+
+'''
 import os
 import sys
 # import csv
 import json
-import numpy
-import pymysql
+#import numpy
+#import pymysql
 import datetime
 import requests
 from gtts import gTTS
