@@ -1,1 +1,2 @@
 # botkopit
+*rynning*
