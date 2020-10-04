@@ -1,5 +1,5 @@
 # botkopit
 hasil kegabutan selama pandemi<br>
 **how to running**<br>
-```python'''
+```python3 botkopit.py```
 
